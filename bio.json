@@ -1,6 +1,7 @@
   {
     "fullname": "Johan Bos",
-    "motivator": "Qwerty!",
+    "heartItems": ["Code", "Teamwork", "Continuous Delivery", "Metrics"],
+    "email": "johan@coconote.nl",
     "dateofbirth": "1983-05-06",
     "picture": "https://johanbos.github.io/johan-bos-2019-400-600.jpg"
   }
