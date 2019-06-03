@@ -25,7 +25,7 @@
     "motivator": "Learn new front-end frameworks, in order to assist front-end developers better.",
     "category": "Course",
     "completed": "2018-12-01",
-    "reference": "https: //app.pluralsight.com/library/courses/vuejs-fundamentals"
+    "reference": "https://app.pluralsight.com/library/courses/vuejs-fundamentals"
   },
   {
     "title": "Got glasses. I finally csharp! 🤓",
@@ -38,21 +38,21 @@
     "motivator": "Learn new front-end frameworks, in order to assist front-end developers better.",
     "category": "Course",
     "completed": "2018-08-31",
-    "reference": "https: //app.pluralsight.com/player?course=vuejs-getting-started"
+    "reference": "https://app.pluralsight.com/player?course=vuejs-getting-started"
   },
   {
     "title": "React",
     "motivator": "Learn new front-end frameworks, in order to assist front-end developers better.",
     "category": "Course",
     "completed": "2018-08-16",
-    "reference": "https: //www.codecademy.com/learn/react-102"
+    "reference": "https://www.codecademy.com/learn/react-102"
   },
   {
     "title": "Bash",
     "motivator": "Do everything with cli!",
     "completed": "2018-08-11",
     "category": "Course",
-    "reference": "https: //www.codecademy.com/learn/learn-the-command-line"
+    "reference": "https://www.codecademy.com/learn/learn-the-command-line"
   },
   {
     "title": "Emily Bos",
@@ -65,7 +65,7 @@
     "motivator": "The mouse was a workaround. Leave it be.",
     "category": "Course",
     "completed": "2016-03-03",
-    "reference": "https: //www.shortcutfoo.com"
+    "reference": "https://www.shortcutfoo.com"
   },
   {
     "completed": "2015-01-01",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Bryan Bos",
-    "motivator": "My frirst child, kickass awesome little fellow.",
+    "motivator": "My first child, kickass awesome little fellow.",
     "category": "Physical",
     "completed": "2014-11-13"
   },
@@ -96,21 +96,21 @@
     "completed": "2009-01-01",
     "category": "Course",
     "title": "Microsoft .net (Exam)",
-    "reference": "https: //www.infosupport.com/",
+    "reference": "https://www.infosupport.com/",
     "motivator": "Became expert in .net Framework 2.0/3.5. ASP.NET WebForm, MVC, WPF, ADO.NET."
   },
   {
     "completed": "2007-02-01",
     "category": "Course",
     "title": "BHV",
-    "reference": "https: //www.bhvnederland.nl/bhv-cursus/locaties/heerenveen",
+    "reference": "https://www.bhvnederland.nl/bhv-cursus/locaties/heerenveen",
     "motivator": "I love helping out. Maybe become a firefighter one day?"
   },
   {
     "title": "Informatica Bachelor",
     "completed": "2005-06-01",
     "category": "Course",
-    "reference": "https: //www.nhlstenden.com/hbo-opleidingen/informatica",
+    "reference": "https://www.nhlstenden.com/hbo-opleidingen/informatica",
     "motivator": "By far the best time of my learning journey. I was made for this! Learned Java, Pascal, n-tier Architecture, php, html, css, Presenting, 3D engines, video capturing, creating robots! Ending my journey here with a 10 (of 10) for programming skills."
   },
   {
@@ -118,6 +118,6 @@
     "motivator": "",
     "completed": "2000-06-01",
     "category": "Course",
-    "reference": "https: //www.csg-comenius.nl/opleidingen/Havo"
+    "reference": "https://www.csg-comenius.nl/opleidingen/Havo"
   }
 ]
