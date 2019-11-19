@@ -1,5 +1,33 @@
 [
     {
+        "title": "Azure fundamentals",
+        "motivator": "Why not learn a bit more and get the AZ900 if I can? 😎",
+        "category": "Course",
+        "completed": "",
+        "reference": "https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/"
+    },
+    {
+        "title": "Secure your cloud applications in Azure",
+        "motivator": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+        "category": "Course",
+        "completed": "",
+        "reference": "https://docs.microsoft.com/en-gb/learn/paths/secure-your-cloud-apps/"
+    },
+    {
+        "title": "Architect great solutions in Azure",
+        "motivator": "Learn how to design and build secure, scalable, performant solutions in Azure by examining the core principles found in every good architecture.",
+        "category": "Course",
+        "completed": "2019-11-19",
+        "reference": "https://docs.microsoft.com/en-gb/learn/paths/architect-great-solutions-in-azure/"
+    },
+    {
+        "title": "Emotional Intelligence",
+        "motivator": "Je bewust zijn van je emoties en die ook weten te beheersen: dat is een van de sleutels tot succes in het leven, zowel beroepsmatig als privé.",
+        "category": "Course",
+        "completed": "",
+        "reference": "https://metadata.isbn.nl/44682/emotionele-intelligentie-voor-dummies.html"
+    },
+    {
         "title": "Vue Fundamentals",
         "motivator": "Learn new front-end frameworks, in order to assist front-end developers better.",
         "category": "Course",
