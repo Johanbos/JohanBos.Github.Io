@@ -1,5 +1,25 @@
 [
     {
+        "title": "MCSA",
+        "motivator": "C# Certificate",
+        "category": "Course",
+        "completed": "",
+        "reference": "https://www.microsoft.com/en-us/learning/mcsa-certification.aspx"
+    },{
+        "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
+        "motivator": "",
+        "category": "Personal",
+        "completed": "",
+        "reference": "https://tiddotalk.wordpress.com/boek-een-val-vooruit/"
+    },
+    {
+        "title": "Huh?! – de techniek van het omdenken",
+        "motivator": "",
+        "category": "Personal",
+        "completed": "",
+        "reference": "https://www.omdenken.nl"
+    },
+    {
         "title": "Azure fundamentals",
         "motivator": "Why not learn a bit more and get the AZ900 if I can? 😎",
         "category": "Course",
@@ -24,7 +44,7 @@
         "title": "Emotional Intelligence",
         "motivator": "Je bewust zijn van je emoties en die ook weten te beheersen: dat is een van de sleutels tot succes in het leven, zowel beroepsmatig als privé.",
         "category": "Personal",
-        "completed": "",
+        "completed": "2019-01-10",
         "reference": "https://metadata.isbn.nl/44682/emotionele-intelligentie-voor-dummies.html"
     },
     {
