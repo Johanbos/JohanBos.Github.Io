@@ -1,10 +1,10 @@
 [
     {
-        "title": "MCSA",
-        "motivator": "C# Certificate",
+        "title": "70-483",
+        "motivator": "C# back in the old days. Still fun to do!",
         "category": "Course",
         "completed": "",
-        "reference": "https://www.microsoft.com/en-us/learning/mcsa-certification.aspx"
+        "reference": "https://www.microsoft.com/en-us/learning/exam-70-483.aspx"
     },{
         "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
         "motivator": "",
@@ -20,18 +20,11 @@
         "reference": "https://www.omdenken.nl"
     },
     {
-        "title": "Azure fundamentals",
-        "motivator": "Why not learn a bit more and get the AZ900 if I can? 😎",
+        "title": "Microsoft AZ-204",
+        "motivator": "Microsoft Azure Developers design, build, test, and maintain cloud solutions, such as applications and services, partnering with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement these solutions.",
         "category": "Course",
         "completed": "",
-        "reference": "https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/"
-    },
-    {
-        "title": "Secure your cloud applications in Azure",
-        "motivator": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
-        "category": "Course",
-        "completed": "",
-        "reference": "https://docs.microsoft.com/en-gb/learn/paths/secure-your-cloud-apps/"
+        "reference": "https://docs.microsoft.com/en-gb/learn/certifications/azure-developer"
     },
     {
         "title": "Architect great solutions in Azure",
