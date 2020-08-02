@@ -1,31 +1,27 @@
 [
   {
-    "title": "Databases (mssql)",
+    "title": "Working in teams",
     "passion": 5
-  },
-  {
-    "title": "Cloud",
-    "passion": 4
-  },
-  {
-    "title": "Communication",
-    "passion": 5
-  },
-  {
-    "title": "Agile",
-    "passion": 4
-  },
-  {
-    "title": "Design Patterns",
-    "passion": 3
   },
   {
     "title": "Continuous Integration",
     "passion": 5
   },
   {
-    "title": "Data Science / Machine Learning",
-    "passion": 2
+    "title": "Databases (mssql)",
+    "passion": 4
+  },
+  {
+    "title": "Cloud",
+    "passion": 4
+  },
+  {
+    "title": "Agile frameworks",
+    "passion": 4
+  },
+  {
+    "title": "Design Patterns",
+    "passion": 3
   },
   {
     "title": "Windows",
@@ -34,5 +30,13 @@
   {
     "title": "Linux",
     "passion": 3
+  },
+  {
+    "title": "Security",
+    "passion": 3
+  },
+  {
+    "title": "Data Science / Machine Learning",
+    "passion": 2
   }
 ]
