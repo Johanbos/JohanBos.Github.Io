@@ -3,13 +3,15 @@
         "started": "2020-02-01",
         "title": "Snelstart",
         "reference": "https://www.snelstart.nl",
-        "description": "",
+        "description": "A technically large company with multiple teams going from storming to performing. Gold partner with Microsoft and great Agile advocate management.",
         "labels": [
-            "Visual Studio 201x",
+            "Visual Studio 2019",
             "Visual Studio Code",
-            "Mssql",
-            "Azure Cloud",
-            "PowerBi"
+            "Azure Cloud (100k+ databases)",
+            ".NET (full, core, everything!)",
+            "Angular/RxJS",
+            "Kusto / Analysis Service",
+            "PowerBi",
         ]
     },{
         "started": "2011-02-01",
