@@ -1,17 +1,17 @@
 [
     {
-        "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
-        "motivator": "",
-        "category": "Personal",
-        "completed": "",
-        "reference": "https://tiddotalk.wordpress.com/boek-een-val-vooruit/"
-    },
-    {
         "title": "Microsoft AZ-204",
         "motivator": "Microsoft Azure Developers design, build, test, and maintain cloud solutions, such as applications and services, partnering with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement these solutions.",
         "category": "Course",
         "completed": "",
         "reference": "https://docs.microsoft.com/en-gb/learn/certifications/azure-developer"
+    },
+    {
+        "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
+        "motivator": "",
+        "category": "Personal",
+        "completed": "",
+        "reference": "https://tiddotalk.wordpress.com/boek-een-val-vooruit/"
     },
     {
         "title": "Understanding Ethical Hacking",
@@ -22,13 +22,13 @@
     },
     {
         "title": "Proferssional Scrum Master (Certification PSM1)",
-        "motivator": "",
+        "motivator": "A proper workshop from https://www.scrum.org/maarten-hoppen would motivate anyone.",
         "category": "Course",
         "completed": "2020-08-01",
         "reference": "https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments"
     },
     {
-        "title": "70-483",
+        "title": "Certification 70-483",
         "motivator": "C# back in the old days. Still fun to do!",
         "category": "Course",
         "completed": "2020-05-12",
