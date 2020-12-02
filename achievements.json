@@ -1,10 +1,10 @@
 [
     {
-        "title": "Microsoft AZ-204",
-        "motivator": "Microsoft Azure Developers design, build, test, and maintain cloud solutions, such as applications and services, partnering with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement these solutions.",
+        "title": "Angular Fundamentals",
+        "motivator": "Finally some front-end fiesta!",
         "category": "Course",
-        "completed": "",
-        "reference": "https://docs.microsoft.com/en-gb/learn/certifications/azure-developer"
+        "completed": "2020-12-02",
+        "reference": "https://www.kassenaar.com"
     },
     {
         "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
