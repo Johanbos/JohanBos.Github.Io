@@ -1,5 +1,19 @@
 [
     {
+        "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "motivator": "Stay safe!",
+        "category": "Course",
+        "completed": "2022-01-31",
+        "reference": "https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/"
+    },
+    {
+        "title": "Microsoft Certified: Azure Developer Associate",
+        "motivator": "This is what I do, easy exam ftw!",
+        "category": "Course",
+        "completed": "2021-04-01",
+        "reference": "https://docs.microsoft.com/en-us/learn/certifications/azure-developer/"
+    },
+    {
         "title": "Angular Fundamentals",
         "motivator": "Finally some front-end fiesta!",
         "category": "Course",
