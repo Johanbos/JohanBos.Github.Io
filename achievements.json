@@ -1,4 +1,10 @@
-[
+[  {
+        "title": "Fouten maken moed",
+        "motivator": "Great book about the power of failing",
+        "category": "Personal",
+        "completed": "2022-10-20",
+        "reference": "https://www.instituutvoorfaalkunde.nl/boek/fouten-maken-moed/"
+    },
     {
         "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
         "motivator": "Stay safe!",
@@ -22,9 +28,9 @@
     },
     {
         "title": "Een val vooruit; de kracht van het brein (2011),  Auteur: Tiddo Graatsma",
-        "motivator": "",
+        "motivator": "Great book about personal strength and how are brains function",
         "category": "Personal",
-        "completed": "",
+        "completed": "2021-11-20",
         "reference": "https://tiddotalk.wordpress.com/boek-een-val-vooruit/"
     },
     {
