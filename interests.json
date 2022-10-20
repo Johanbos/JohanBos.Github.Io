@@ -4,15 +4,11 @@
     "passion": 5
   },
   {
-    "title": "Continuous Integration",
-    "passion": 4
+    "title": "Microsoft Azure",
+    "passion": 5
   },
   {
-    "title": "Databases (mssql)",
-    "passion": 3
-  },
-  {
-    "title": "Cloud",
+    "title": "Security",
     "passion": 5
   },
   {
@@ -20,23 +16,24 @@
     "passion": 4
   },
   {
-    "title": "Windows",
+    "title": "Continuous Integration",
     "passion": 4
+  },
+  {
+    "title": "Compliance",
+    "passion": 4
+  },
+  {
+    "title": "Databases (mssql)",
+    "passion": 3
   },
   {
     "title": "Design Patterns",
     "passion": 3
   },
   {
-    "title": "Linux",
-    "passion": 3
-  },
-  {
-    "title": "Security",
-    "passion": 5
-  },
-  {
     "title": "Data Science / Machine Learning",
     "passion": 2
-  }
+  },
+
 ]
