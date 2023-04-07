@@ -1,6 +1,6 @@
 [
     {
-        "title": "ISO 27001",
+        "title": "ISO 27001 Certified",
         "motivator": "Getting your information security processes certified is a fine way to find out you are on the right track!",
         "category": "Projects",
         "completed": "2023-3-1",
@@ -14,7 +14,7 @@
         "reference": "https://www.iso.org/standard/82875.html"
     },
     {
-        "title": "PSD2 License",
+        "title": "PSD2 License obtained",
         "motivator": "Helping achieve a PSD2 license from De Nederlandse Bank is such a milestone. So much insight and cooperation is needed to achieve this.",
         "category": "Projects",
         "completed": "2022-10-1",
@@ -47,6 +47,13 @@
         "category": "Personal",
         "completed": "2021-11-20",
         "reference": "https://tiddotalk.wordpress.com/boek-een-val-vooruit/"
+    },
+    {
+        "title": "Auth0 Implemented",
+        "motivator": "Switching Identity Provider without downtime.",
+        "category": "Project",
+        "completed": "2021-03-01",
+        "reference": "https://auth0.com"
     },
     {
         "title": "Understanding Ethical Hacking",
