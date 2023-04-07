@@ -3,15 +3,16 @@
         "started": "2020-02-01",
         "title": "Snelstart",
         "reference": "https://www.snelstart.nl",
-        "description": "A technically large company with multiple teams going from storming to performing. Gold partner with Microsoft and great Agile advocate management.",
+        "description": "A technically large company with multiple teams going from storming to performing. Supported and/or implemented Identity solution, ISO certification, PSD2 license",
         "labels": [
-            "Visual Studio 2019",
-            "Visual Studio Code",
-            "Azure Cloud (100k+ databases)",
+            "Visual Studio (20xx, Code)",
+            "Azure Cloud (150k+ databases, private AKS)",
             ".NET (full, core, everything!)",
             "Angular/RxJS",
-            "Kusto / Analysis Service",
-            "PowerBi"
+            "Kusto / Data Explorer",
+            "ISO 27001",
+            "PSD2",
+            "Auth0",
         ]
     },{
         "started": "2011-02-01",
