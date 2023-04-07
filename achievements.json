@@ -1,9 +1,24 @@
-[  {
+[
+    {
+        "title": "ISO 27001",
+        "motivator": "Getting your information security processes certified is a fine way to find out you are on the right track!",
+        "category": "Projects",
+        "completed": "2023-3-1",
+        "reference": "https://www.instituutvoorfaalkunde.nl/boek/fouten-maken-moed/"
+    },
+    {
         "title": "Fouten maken moed",
         "motivator": "Great book about the power of failing",
         "category": "Personal",
         "completed": "2022-10-20",
-        "reference": "https://www.instituutvoorfaalkunde.nl/boek/fouten-maken-moed/"
+        "reference": "https://www.iso.org/standard/82875.html"
+    },
+    {
+        "title": "PSD2 License",
+        "motivator": "Helping achieve a PSD2 license from De Nederlandse Bank is such a milestone. So much insight and cooperation is needed to achieve this.",
+        "category": "Projects",
+        "completed": "2022-10-1",
+        "reference": "https://www.dnb.nl/innovatie-in-betalen-en-bankieren/fintech-ai-en-innovatie/wat-u-moet-weten-over-psd2/"
     },
     {
         "title": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
