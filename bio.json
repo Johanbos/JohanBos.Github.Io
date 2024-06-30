@@ -1,8 +1,9 @@
   {
     "fullname": "Johan Bos",
-    "heartItems": ["Continuous Delivery", "Azure", "Security"],
+    "heartItems": ["Azure", "Security", "Continuous Delivery", "Teamwork"],
     "email": "johanbos-nl@outlook.com",
     "dateofbirth": "1983-05-06",
     "picture": "https://johanbos.github.io/johanbos-2021-600-600.jpg",
-    "motto": "You can learn anything you want, so never stop failing."
+    "motto": "You can learn anything you want, so never stop failing.",
+    "mission": ""
   }
