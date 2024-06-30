@@ -1,17 +1,30 @@
 [
     {
+        "started": "2023-01-01",
+        "title": "Snelstart (Infra & Compliance)",
+        "reference": "https://www.snelstart.nl",
+        "description": "Continuing with SnelStart, but more focus on Azure, Compliance, Security & departement processes",
+        "labels": [
+            "Policy",
+            "Security",
+            "Compliance",
+            "ISO 27001",
+            "PSD2",
+            "Microsoft",
+            "Auth0 / Okta"
+        ]
+    },
+    {
         "started": "2020-02-01",
         "title": "Snelstart",
         "reference": "https://www.snelstart.nl",
-        "description": "A technically large company with multiple teams going from storming to performing. Supported and/or implemented Identity solution, ISO certification, PSD2 license",
+        "description": "A technically large company with multiple teams going from storming to performing. Supported and/or implemented Identity solution, new architecture",
         "labels": [
             "Visual Studio (20xx, Code)",
-            "Azure Cloud (150k+ databases, private AKS)",
+            "Azure Cloud (250k+ databases, private AKS)",
             ".NET (full, core, everything!)",
             "Angular/RxJS",
             "Kusto / Data Explorer",
-            "ISO 27001",
-            "PSD2",
             "Auth0 / Okta"
         ]
     },{
