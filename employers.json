@@ -3,8 +3,9 @@
         "started": "2023-01-01",
         "title": "Snelstart (Infra & Compliance)",
         "reference": "https://www.snelstart.nl",
-        "description": "Continuing with SnelStart, but more focus on Azure, Compliance, Security & departement processes",
+        "description": "Continuing with SnelStart, but more focus on Azure, Compliance, Security, departement processes & organisation scope",
         "labels": [
+            "Azure Cloud (300k resources)",
             "Policy",
             "Security",
             "Compliance",
