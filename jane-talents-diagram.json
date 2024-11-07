@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Empathic",
+        "score": 80,
+        "Payoff": "Tuning in on the experiences of people and mechanics of technological systems.",
+        "Description": ""
+    },
+    {
+        "name": "Inventive",
+        "score": 80,
+        "Payoff": "Creating new harmonic combinations for people and technology based on existing knowledge, insights and experiences.",
+        "Description": ""
+    },
+    {
+        "name": "Profiling",
+        "score": 80,
+        "Payoff": "Presenting in an attractive way so that people identify with what they see.",
+        "Description": ""
+    },
+    {
+        "name": "Balanced",
+        "score": 80,
+        "Payoff": "Determing if something is (about to be) out of balance and preventing or restoring the balance.",
+        "Description": ""
+    },
+    {
+        "name": "Analytic",
+        "score": 70,
+        "Payoff": "Quickly processing large amounts of information to get to the core of a subject.",
+        "Description": ""
+    },
+    {
+        "name": "Solutions oriented",
+        "score": 70,
+        "Payoff": "",
+        "Description": "Understanding relevance of knowledge, insights and experiences when finding solutions."
+    },
+    {
+        "name": "Helpful",
+        "score": 70,
+        "Payoff": "",
+        "Description": "Providing what is asked for."
+    },
+    {
+        "name": "Steadfast",
+        "score": 70,
+        "Payoff": "",
+        "Description": "Dealing with setbacks to overcome."
+    },
+    {
+        "name": "Decisive",
+        "score": 70,
+        "Payoff": "Quickly anticipating needs with little signals.",
+        "Description": ""
+    }
+]
